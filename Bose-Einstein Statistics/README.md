@@ -48,7 +48,7 @@ $$
 ## 📊 Example Outputs
 
 ### 🔹 Ground State Fraction
-![Ground State Fraction](bose_einstein_statistics.png)
+![Ground State Fraction](GS_fraction.png)
 
 Fraction of particles in the ground state $N_0/N$ as a function of normalized temperature $T/T_c$.
 
